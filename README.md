@@ -25,4 +25,4 @@ PCA scored better on both internal clustering metrics in the supplied run. See t
 Complete-case filtering may cause selection bias. NHANES survey weights and complex sampling design were not applied. Autoencoder metrics can vary between runs. Cluster IDs are arbitrary.
 
 ## Contributors
-Add all project contributors and their respective contributions before publishing.
+Samantha Martinez and Sergio Baguena.
